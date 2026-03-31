@@ -6,7 +6,7 @@ source: https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134433
 ---
 
 # Quelle est la question du client ?
-Source : https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134433
+
 * * *
 Le client souhaite passer son modem TG 788v1 ou v2 ou TG789 en mode bridge, le modem est contrôlé en local.
 

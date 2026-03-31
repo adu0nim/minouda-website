@@ -2,9 +2,10 @@
 title: Mise en service
 updated: 2026-03-19 09:35:14Z
 created: 2026-03-19 09:34:57Z
-latitude: 48.85661400
-longitude: 2.35222190
-altitude: 0.0000
+latitude: 48.856614
+longitude: 2.3522219
+altitude: 0
+draft: true
 ---
 
 Mise en service

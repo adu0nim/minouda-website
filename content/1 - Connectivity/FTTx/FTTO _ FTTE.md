@@ -2,9 +2,10 @@
 title: FTTO / FTTE
 updated: 2025-10-09 13:26:33Z
 created: 2025-10-09 12:39:58Z
-latitude: 48.85661400
-longitude: 2.35222190
-altitude: 0.0000
+latitude: 48.856614
+longitude: 2.3522219
+altitude: 0
+draft: true
 ---
 
 FTTO / FTTE

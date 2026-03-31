@@ -6,7 +6,7 @@ source: https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134573
 ---
 
 ### Configuration du modem en Bridge depuis son interface
-Source : https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134573
+
 ***
 >A savoir
 
