@@ -4,7 +4,7 @@ Dernière modification : <% tp.file.last_modified_date() %>
 ---
 tags:
 - meeting
-Prsent :
+Present : 
 ---
 ## Agenda
 
