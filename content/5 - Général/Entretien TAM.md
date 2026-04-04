@@ -5,7 +5,7 @@ created: 2025-08-06 13:21:41Z
 latitude: 50.6927049
 longitude: 3.177847
 altitude: 0
-draft:
+draft: true
 ---
 
 Entretien TAM
