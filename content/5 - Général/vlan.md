@@ -2,9 +2,10 @@
 title: vlan
 updated: 2025-08-06 14:12:31Z
 created: 2025-08-06 14:11:41Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 vlan
