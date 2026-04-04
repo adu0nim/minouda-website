@@ -1,4 +1,8 @@
 export const escapeHTML = (unsafe: string) => {
+  // Handle undefined, null, or non-string values
+  if (!unsafe) {
+    return ""
+  }
   return unsafe
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
@@ -8,6 +12,9 @@ export const escapeHTML = (unsafe: string) => {
 }
 
 export const unescapeHTML = (html: string) => {
+  if (!html) {
+    return ""
+  }
   return html
     .replaceAll("&amp;", "&")
     .replaceAll("&lt;", "<")
