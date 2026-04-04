@@ -2,11 +2,12 @@
 title: Yealink
 updated: 2025-07-09 13:35:52Z
 created: 2025-07-09 13:20:25Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - téléphone-yealink
+draft: true
 ---
 
 ## Yealink
