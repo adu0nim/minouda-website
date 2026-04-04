@@ -29,7 +29,3 @@ person:
 **Time:** <% tp.date.now("HH:mm") %>
 
 ## Related
-
-
-
-<% await tp.file.rename(tp.date.now("YYYY-MM-DD") %>
