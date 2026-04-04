@@ -2,11 +2,12 @@
 title: Fichier CDR
 updated: 2025-07-10 10:04:02Z
 created: 2025-07-08 15:42:28Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - carriersip-cdr
+draft: true
 ---
 
 ## Fichier CDR

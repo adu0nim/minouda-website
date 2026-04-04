@@ -2,11 +2,12 @@
 title: Changement de domaine par les API
 updated: 2025-07-10 09:47:43Z
 created: 2025-07-10 09:47:38Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - api-domaine-sip
+draft: true
 ---
 
 ##### Changement de domaine par les API
