@@ -40,3 +40,4 @@ lastWatched: ""
 personalRating: 0
 tags: mediaDB/manga/light-novel
 ---
+[One Piece Novel: Mugiwara Stories](https://myanimelist.net/manga/110830/One_Piece_Novel__Mugiwara_Stories)
