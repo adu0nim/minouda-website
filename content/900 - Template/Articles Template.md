@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - "#article"
 ---
 Date de création : <% tp.file.creation_date() %>
 Dernière modification : <% tp.file.last_modified_date() %>
