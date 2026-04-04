@@ -21,3 +21,4 @@ lastRead: ""
 personalRating: 0
 tags: mediaDB/book
 ---
+[La Nuit des temps](https://openlibrary.org/works/OL8551775W)
