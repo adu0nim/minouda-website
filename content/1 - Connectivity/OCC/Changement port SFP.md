@@ -8,6 +8,7 @@ altitude: 0
 tags:
   - occ-sfp
 draf:
+draft: true
 ---
 
 ## Changement port SFP

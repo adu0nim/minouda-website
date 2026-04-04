@@ -3,6 +3,7 @@ title: Mode bridge TG605s/628s
 updated: 2025-07-10 10:06:50Z
 created: 2025-07-10 10:04:30Z
 source: https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134573
+draft: true
 ---
 
 ### Configuration du modem en Bridge depuis son interface
