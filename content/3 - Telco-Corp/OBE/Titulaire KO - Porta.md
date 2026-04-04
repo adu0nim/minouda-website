@@ -2,9 +2,10 @@
 title: Titulaire KO - Porta
 updated: 2025-08-06 09:16:44Z
 created: 2025-08-06 09:15:12Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 ## Titulaire KO - Porta

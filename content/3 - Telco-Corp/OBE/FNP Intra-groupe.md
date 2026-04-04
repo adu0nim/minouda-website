@@ -2,11 +2,12 @@
 title: FNP Intra-groupe
 updated: 2025-11-12 14:45:42Z
 created: 2025-07-09 09:57:31Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - obe-intragroupe
+draft: true
 ---
 
 ## FNP Intra-groupe
