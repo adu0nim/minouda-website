@@ -2,9 +2,10 @@
 title: Fax2Mail
 updated: 2025-07-10 09:36:45Z
 created: 2025-07-10 09:35:37Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 ## Fax2Mail

@@ -2,11 +2,12 @@
 title: Supervision - Inter Groupe
 updated: 2025-07-10 09:46:04Z
 created: 2025-07-10 09:45:40Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - line-supervision-inter
+draft: true
 ---
 
 ## Supervision - Inter Groupe

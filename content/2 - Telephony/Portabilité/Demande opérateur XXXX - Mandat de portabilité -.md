@@ -2,9 +2,10 @@
 title: Demande opérateur XXXX - Mandat de portabilité -
 updated: 2025-11-10 10:42:30Z
 created: 2025-11-10 10:40:23Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 Demande opérateur 

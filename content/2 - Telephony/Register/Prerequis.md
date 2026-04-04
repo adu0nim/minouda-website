@@ -2,9 +2,10 @@
 title: Prerequis
 updated: 2025-10-06 10:09:31Z
 created: 2025-10-06 07:25:46Z
-latitude: 48.91415500
-longitude: 2.28536900
-altitude: 0.0000
+latitude: 48.914155
+longitude: 2.285369
+altitude: 0
+draft:
 ---
 
 ## Prerequis 
