@@ -2,9 +2,10 @@
 title: Logs
 updated: 2025-07-24 12:13:11Z
 created: 2025-07-24 12:12:15Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 ## Logs
