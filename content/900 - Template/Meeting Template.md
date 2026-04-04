@@ -1,18 +1,4 @@
-<%*
-  const modalForm = app.plugins.plugins.modalforms.api;
-  const result = await modalForm.openForm("Meeting");
--%>
----
-tags:
-  -  <%* result.get("Project")%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-project: <% result.get("Project") %> 
-type: Meeting
-meetingType: <% result.get("Meeting Name") %>
-people: <% result.get("Participants") %>
-duration: <% result.get("Duration") %>
----
-# <% result.get("Project") %>:   <% result.get("Meeting Name") %> - <% tp.date.now("MMMM Do YYYY") %>
+
 
 ## Agenda
 
