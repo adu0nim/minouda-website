@@ -1,6 +1,3 @@
----
-draft: true
----
 **Topic** : #byoip 
 
 #### FR

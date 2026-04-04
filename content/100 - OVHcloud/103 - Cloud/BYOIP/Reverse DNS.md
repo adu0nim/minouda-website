@@ -1,6 +1,3 @@
----
-draft: true
----
 **Topic** : #byoip 
 #### FR
 Je reviens vers vous concernant l'utilisation des Reverse DNS sur certaines IPs.
