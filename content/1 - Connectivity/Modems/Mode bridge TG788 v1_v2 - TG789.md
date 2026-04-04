@@ -1,8 +1,9 @@
 ---
-title: 'Mode bridge TG788 v1/v2 - TG789 '
+title: "Mode bridge TG788 v1/v2 - TG789 "
 updated: 2025-07-10 10:03:46Z
 created: 2025-07-10 09:56:44Z
 source: https://confluence.ovhcloud.tools/pages/viewpage.action?pageId=95134433
+draft: true
 ---
 
 # Quelle est la question du client ?
