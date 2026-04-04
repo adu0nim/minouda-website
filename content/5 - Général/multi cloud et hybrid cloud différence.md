@@ -2,9 +2,10 @@
 title: multi cloud et hybrid cloud différence
 updated: 2025-08-06 14:14:09Z
 created: 2025-08-06 14:13:55Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 multi cloud et hybrid cloud différence 
