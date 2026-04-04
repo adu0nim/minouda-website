@@ -8,6 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
+HEAD
     pageTitle: "Minouda-Website",
 origin/main
     pageTitleSuffix: "",
