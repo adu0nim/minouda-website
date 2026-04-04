@@ -2,9 +2,10 @@
 title: Différence entre routage statique et dynamique
 updated: 2025-08-06 14:11:32Z
 created: 2025-08-06 14:10:51Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft:
 ---
 
 Différence entre routage statique et dynamique

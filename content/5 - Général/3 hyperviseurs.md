@@ -2,9 +2,10 @@
 title: 3 hyperviseurs
 updated: 2025-08-06 13:27:56Z
 created: 2025-08-06 13:26:57Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 3 hyperviseurs
