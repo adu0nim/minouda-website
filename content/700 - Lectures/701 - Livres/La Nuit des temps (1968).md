@@ -22,8 +22,7 @@ personalRating: 0
 tags: mediaDB/book
 ---
 [La Nuit des temps](https://openlibrary.org/works/OL8551775W)
-
-https://covers.openlibrary.org/b/OLID/OL9657006M-L.jpg
+![[0009245348-L.jpg]]
 Des expéditions scientifiques françaises en [Antarctique](https://fr.wikipedia.org/wiki/Antarctique "Antarctique") révèlent l'émission d'un signal inattendu provenant de la profondeur des glaces. Une expédition rassemblant de nombreuses nations est organisée afin d’atteindre le point d'émission du signal. Ses membres communiquent grâce à un [ordinateur traduisant instantanément](https://fr.wikipedia.org/wiki/Traduction_automatique "Traduction automatique") leurs paroles.
 
 L'expédition internationale découvre les ruines d'une civilisation disparue sous la glace depuis 900 000 ans et les scientifiques du monde entier affluent vers le site pour aider à explorer et comprendre.
