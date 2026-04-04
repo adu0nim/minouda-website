@@ -2,9 +2,10 @@
 title: Résiliation
 updated: 2025-07-22 10:17:28Z
 created: 2025-07-22 10:17:03Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
+draft: true
 ---
 
 ## Résiliation

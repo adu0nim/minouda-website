@@ -7,7 +7,7 @@ longitude: 3.177847
 altitude: 0
 tags:
   - carriersip-vno
-draft:
+draft: true
 ---
 
 ## Hébergement de numéros / offre VNO
