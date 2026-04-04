@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
 HEAD
-origin/main
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
