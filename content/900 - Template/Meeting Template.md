@@ -1,7 +1,4 @@
-<%*
-  const modalForm = app.plugins.plugins.modalforms.api;
-  const result = await modalForm.openForm("Meeting");
--%>
+
 ---
 tags:
   -  <%* result.get("Project")%>
