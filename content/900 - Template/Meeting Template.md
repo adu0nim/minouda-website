@@ -32,4 +32,4 @@ person:
 
 
 
-<% await tp.file.rename(tp.date.now("YYYY-MM-DD")+" - "+result.get("Meeting Name")+" ")%>
+<% await tp.file.rename(tp.date.now("YYYY-MM-DD") %>
