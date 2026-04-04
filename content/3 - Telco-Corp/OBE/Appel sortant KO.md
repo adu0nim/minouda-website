@@ -2,11 +2,12 @@
 title: Appel sortant KO
 updated: 2025-07-09 10:24:42Z
 created: 2025-07-09 08:33:33Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - obe-entrant-ko
+draft: true
 ---
 
 ## Appel sortant KO

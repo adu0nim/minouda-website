@@ -2,11 +2,12 @@
 title: Commande OBE - Plus de numéros dispo
 updated: 2025-07-30 15:09:33Z
 created: 2025-07-09 10:34:03Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - obe-no-numéro
+draft: true
 ---
 
 ## Commande OBE - Plus de numéros dispo
