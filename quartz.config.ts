@@ -8,11 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-<<<<<<< HEAD
-    pageTitle: "Minouda-website",
-=======
     pageTitle: "Minouda-Website",
->>>>>>> origin/main
+origin/main
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
