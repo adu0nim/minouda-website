@@ -1,7 +1,42 @@
+<%*
+  const modalForm = app.plugins.plugins.modalforms.api;
+  const result = await modalForm.openForm("Meeting");
+-%>
 ---
-aliases:
 tags:
+  -  <%* result.get("Project")%>
+date: <% tp.date.now("YYYY-MM-DD") %>
+project: <% result.get("Project") %> 
+type: Meeting
+meetingType: <% result.get("Meeting Name") %>
+people: <% result.get("Participants") %>
+duration: <% result.get("Duration") %>
 ---
-Date de création : <% tp.file.creation_date() %>
-Dernière modification : <% tp.file.last_modified_date() %>
-Dossier parent : <% tp.file.folder() %>
+# <% result.get("Project") %>:   <% result.get("Meeting Name") %> - <% tp.date.now("MMMM Do YYYY") %>
+
+## Agenda
+
+
+
+## Meeting Notes
+
+- 
+
+## Key Decisions
+
+- 
+
+## Follow-up
+
+- [ ] 
+
+## Next Meeting
+
+**Date:** <% tp.date.now("YYYY-MM-DD", 7) %>
+**Time:** <% tp.date.now("HH:mm") %>
+
+## Related
+
+
+
+<% await tp.file.rename(tp.date.now("YYYY-MM-DD")+" - "+result.get("Meeting Name")+" ")%>
