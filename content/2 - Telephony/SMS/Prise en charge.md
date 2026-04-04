@@ -2,11 +2,12 @@
 title: Prise en charge
 updated: 2025-07-09 13:12:30Z
 created: 2025-07-09 13:10:16Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - sms-frt
+draft: true
 ---
 
 ## Prise en charge 

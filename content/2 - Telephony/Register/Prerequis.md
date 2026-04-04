@@ -5,7 +5,7 @@ created: 2025-10-06 07:25:46Z
 latitude: 48.914155
 longitude: 2.285369
 altitude: 0
-draft:
+draft: true
 ---
 
 ## Prerequis 

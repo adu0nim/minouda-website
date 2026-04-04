@@ -2,11 +2,12 @@
 title: Transfert crédit SMS
 updated: 2025-07-09 13:19:36Z
 created: 2025-07-09 13:18:48Z
-latitude: 50.69270490
-longitude: 3.17784700
-altitude: 0.0000
+latitude: 50.6927049
+longitude: 3.177847
+altitude: 0
 tags:
   - sms-transfer
+draft: true
 ---
 
 ## Transfert crédit SMS
