@@ -1,13 +1,13 @@
-# Obsidianite
+# Obsidian gruvbox
 
-- Theme: Obsidianite
-- Author: <a href="https://github.com/bennyxguo" target="_blank" rel="noopener noreferrer">@bennyxguo</a>
+- Theme: Obsidian gruvbox
+- Author: <a href="https://insanum.com" target="_blank" rel="noopener noreferrer">insanum</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/obsidianite/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/obsidian-gruvbox/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/obsidianite)
+[Open live preview (Publish)](https://publish.saberzero.one/obsidian-gruvbox)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: obsidianite
+  THEME_NAME: obsidian-gruvbox
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh obsidianite
+./action.sh obsidian-gruvbox
 ```
 
 ### Manual install
