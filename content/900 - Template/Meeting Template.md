@@ -4,11 +4,11 @@ Dernière modification : <% tp.file.last_modified_date() %>
 ---
 tags: #meeting 
 - meeting
-Present : 
+Présent : 
 ---
 ## Agenda
 
-
+- 
 
 ## Meeting Notes
 
@@ -26,5 +26,3 @@ Present :
 
 **Date:** <% tp.date.now("YYYY-MM-DD", 7) %>
 **Time:** <% tp.date.now("HH:mm") %>
-
-## Related
