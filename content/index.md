@@ -1,34 +1,77 @@
 ---
-title: Mes prises de notes
----
----
 title: Accueil
-description: Bienvenue sur mon wiki personnel. Retrouvez ici mes notes, projets et ressources.
 ---
 
-# 🌟 Bienvenue sur mon wiki
+<div class="start-page-container">
+  <div class="header">
+    <h1>📚 Start Page for Obsidian</h1>
+    <div class="search-bar">
+      <input type="text" placeholder="Type to start search...">
+    </div>
+  </div>
 
-> *"Un espace pour organiser, partager et explorer mes connaissances."*
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-icon">📄</div>
+      <div class="stat-info">
+        <div class="stat-number" id="total-notes">1</div>
+        <div class="stat-label">Total notes</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">📝</div>
+      <div class="stat-info">
+        <div class="stat-number" id="today-edited">1</div>
+        <div class="stat-label">Today edited</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">💾</div>
+      <div class="stat-info">
+        <div class="stat-number" id="total-size">11.35MB</div>
+        <div class="stat-label">Total size</div>
+      </div>
+    </div>
+  </div>
 
----
-## 📌 À propos
-Je m’appelle **Damien**, et ce site est mon **espace de connaissances** où je centralise mes notes, mes projets et mes réflexions. Que tu sois un·e visiteur·se occasionnel·le ou un·e collaborateur·rice, n’hésite pas à explorer et à me faire des retours !
+  <div class="content">
+    <div class="pinned-notes">
+      <div class="section-header">
+        <span>+ Pinned notes</span>
+        <button class="manage-btn">Manage</button>
+      </div>
+      <div class="pinned-list">
+        <!-- Les notes épinglées seront ajoutées ici -->
+      </div>
+    </div>
 
-📧 **Contact** : [damien@example.com](mailto:damien@example.com)
+    <div class="recent-notes">
+      <div class="section-header">
+        <span>🕒 Recent notes</span>
+        <div class="show-count">
+          <span>Show count</span>
+          <input type="number" value="10" min="1">
+        </div>
+      </div>
+      <div class="recent-list">
 
----
-## 🗺️ Explorer le wiki
-### 🔍 **Rechercher une note**
-Utilise la barre de recherche en haut de la page pour trouver une note spécifique.
+        <div class="note-item">
+          <div class="note-icon">📄</div>
+          <div class="note-info">
+            <div class="note-title">index</div>
+            <div class="note-meta">1 hours ago .md 📁 index.md</div>
+          </div>
+          <div class="note-pin">📌</div>
+        </div>
 
-### 🌐 **Graphique des liens**
-Découvre les connexions entre mes notes via le [graphique interactif](/graph).
+      </div>
+    </div>
+  </div>
+</div>
 
----
-## 📢 Dernières mises à jour
-*(Section dynamique – utilise Dataview si tu l’as activé dans Quartz.)*
-```dataview
-TABLE FROM ""
-WHERE file.mtime >= date(today) - dur(7 days)
-SORT file.mtime DESC
-LIMIT 5
+<script>
+// Script pour gérer les interactions
+document.addEventListener('DOMContentLoaded', function() {
+  // Ajouter des gestionnaires d'événements ici
+});
+</script>
