@@ -1,11 +1,4 @@
 ---
-title: Mes prises de notes
----
----
-title: Accueil
-description: Bienvenue sur mon wiki personnel. Retrouvez ici mes notes, projets et ressources.
----
-
 # 🌟 Bienvenue sur mon wiki
 
 > *"Un espace pour organiser, partager et explorer mes connaissances."*
