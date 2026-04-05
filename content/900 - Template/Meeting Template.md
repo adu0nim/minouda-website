@@ -20,7 +20,7 @@ Present :
 
 ## Follow-up
 
-- [ ] @]] 
+- [ ] @[[]] 
 
 ## Next Meeting
 
