@@ -44,7 +44,7 @@ title: Accueil
         <!-- Les notes épinglées seront ajoutées ici -->
       </div>
     </div>
-
+<br>
     <div class="recent-notes">
       <div class="section-header">
         <span>🕒 Recent notes</span>
