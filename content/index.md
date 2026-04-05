@@ -9,7 +9,6 @@ title: Accueil
     </div>
   </div>
 
-<<<<<<< HEAD
   <div class="stats">
     <div class="stat-card">
       <div class="stat-icon">📄</div>
